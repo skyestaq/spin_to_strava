@@ -1,0 +1,50 @@
+# ======================
+# API Keys & Secrets
+# ======================
+config.json
+secrets.json
+*.env
+.env
+.env.*
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ======================
+# Jupyter / Colab
+# ======================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ======================
+# Virtual Environments
+# ======================
+venv/
+.venv/
+env/
+.env/
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDE / Editor
+# ======================
+.idea/
+.vscode/
+*.swp
+*.swo
